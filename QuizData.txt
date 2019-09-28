@@ -1,0 +1,79 @@
+0
+question	"The Harvard architecture for micro-controllers added which additional bus?"
+answer	"Instruction"
+options	
+0	"Address"
+1	"Data"
+2	"Control"
+
+1	
+question	"What was the first commerically available computer processor?"
+answer	"Intel 4004"
+options	
+0	"Intel 486SX"
+1	"TMS 1000"
+2	"AMD AM386"
+
+2	
+question	"In the server hosting industry IaaS stands for..."
+answer	"Infrastructure as a Service"
+options	
+0	"Internet as a Service"
+1	"Internet and a Server"
+2	"Infrastructure as a Server"
+
+3	
+question	"In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?"
+answer	"print(&quot;Hello World&quot;)"
+options	
+0	"console.log(&quot;Hello World&quot;)"
+1	"echo &quot;Hello World&quot;"
+2	"printf(&quot;Hello World&quot;)"
+
+4	
+question	"Which of these programming languages is a low-level language?"
+answer	"Assembly"
+options	
+0	"Python"
+1	"C#"
+2	"Pascal"
+
+5	
+question	"The numbering system with a radix of 16 is more commonly referred to as "
+answer	"Hexidecimal"
+options	
+0	"Binary"
+1	"Duodecimal"
+2	"Octal"
+
+6	
+question	"What is the name of the process that sends one quibit of information using two bits of classical information?"
+answer	"Quantum Teleportation"
+options	
+0	"Super Dense Coding"
+1	"Quantum Entanglement"
+2	"Quantum Programming"
+
+7	
+question	"This mobile OS held the largest market share in 2012."
+answer	"iOS"
+options	
+0	"Android"
+1	"BlackBerry"
+2	"Symbian"
+
+8	
+question	"What was the first company to use the term &quot;Golden Master&quot;?"
+answer	"Apple"
+options	
+0	"IBM"
+1	"Microsoft"
+2	"Google"
+
+9	
+question	"What vulnerability ranked #1 on the OWASP Top 10 in 2013?"
+answer	"Injection "
+options	
+0	"Broken Authentication"
+1	"Cross-Site Scripting"
+2	"Insecure Direct Object References"
